@@ -2,7 +2,6 @@ import React from 'react'
 import { motion } from 'framer-motion'
 import TypeWriter from './Typewriter'
 import { assets } from '../assets/assets'
-// import resume from "../assets/resume.pdf"
 import resume from "../assets/UDAYRESUME.pdf"
 
 const Hero = () => {

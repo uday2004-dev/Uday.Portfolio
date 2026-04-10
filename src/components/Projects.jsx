@@ -20,12 +20,12 @@ const projects = [
     code: "https://github.com/uday2004-dev/youtube-clone",
   },
   {
-    title: "Portfolio Website",
-    description: "Personal portfolio with animations and smooth scrolling.",
+    title: "LMS",
+    description: "LMS (learning modul system) which is use to handle online education platforms ",
     image: projectResume,
     tech: ["React", "Tailwind", "Framer Motion"],
-    demo: "#",
-    code: "#",
+    demo: "https://lms1-cwvx.onrender.com/",
+    code: "https://github.com/uday2004-dev/LMS",
   },
   {
        title: "AI ChatBot",

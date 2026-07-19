@@ -7,17 +7,29 @@ import { motion } from 'framer-motion'
 import projectResume from '../assets/image1.jpeg'
 import projectyt from "../assets/image2.jpeg"
 import projectAI from "../assets/image3.jpeg"
+import demics from "../assets/image4.jpeg"
+import admin from "../assets/admin.jpeg"
 
 
 
 const projects = [
   {
-    title: "YouTube Clone",
-    description: "A YouTube clone with video listing and responsive UI.",
-    image: projectyt,
-    tech: ["React", "Tailwind", "API"],
-    demo: "https://youtube-clone-gold-seven.vercel.app/",
-    code: "https://github.com/uday2004-dev/youtube-clone",
+    title: "Demics Admin",
+    description: "Full-Stack / CMS (Content Management System",
+    image: demics,
+    tech: ["Node.js","Express.js","MongoDB","React.js"],
+    des:"User Link",
+    demo :"https://demics.vercel.app/",
+    code: "https://github.com/uday2004-dev/Demics",
+  },
+    {
+    title: "Demics Users",
+    description: "Full-Stack / CMS (Content Management System).  This is now desktop first app only",
+    image: admin,
+    tech: ["Node.js","Express.js","MongoDB","React.js"],
+    des:"Admin Link",
+    demo: "https://frontend-seven-rose-54.vercel.app/",
+    code: "https://github.com/uday2004-dev/Demics",
   },
   {
     title: "LMS",
